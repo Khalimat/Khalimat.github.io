@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **2012 - 2018: MD degree (combined B.S. and M.S.) in Biochemistry**
-  - Faculty of Biomedicine, Pirogov Russian National Research Medical University, 4.7/5)
+  - Faculty of Biomedicine, Pirogov Russian National Research Medical University, (4.7/5)
 
 **Courses (chronologically ordered)**:
 - Biology, Anatomy, Histology, Mathematical Analysis, Inorganic chemistry, Organic chemistry,
@@ -29,10 +29,10 @@ Computer-aided drug design
 Work experience
 ======
 * 2020 - Present: Bioinformatics Scientist; [BostonGene](https://bostongene.com/publications/)
-* 2019 - 2021: Research Assistant -> Research Fellow; Moscow Institute of Physics and Technology, Moscow
+* 2019 - 2021: Research Assistant -> Research Fellow; Moscow Institute of Physics and Technology
   * Supervisor: [Dr. Yulia Medvedeva](http://scholar.google.ru/citations?user=iHU4ygoAAAAJ&hl=en)
 
-* 2016 - 2018, Research Assistant; Institute of Biomedical Chemistry, [Laboratory of Structure-Function Based Drug Design](http://www.way2drug.com/), Moscow
+* 2016 - 2018, Research Assistant; Institute of Biomedical Chemistry, [Laboratory of Structure-Function Based Drug Design](http://www.way2drug.com/)
   * Supervisor: [Sc.D. Vladimir Poroikov](https://scholar.google.ru/citations?user=F13hIJMAAAAJ&hl=en)
   
 Skills
