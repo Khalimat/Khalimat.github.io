@@ -33,7 +33,7 @@ Work experience
 * 2019 - 2021: Research Assistant -> Research Fellow; Moscow Institute of Physics and Technology
   * Supervisor: [Dr. Yulia Medvedeva](http://scholar.google.ru/citations?user=iHU4ygoAAAAJ&hl=en)
 
-* 2016 - 2018, Research Assistant; Institute of Biomedical Chemistry, [Laboratory of Structure-Function Based Drug Design](http://www.way2drug.com/)
+* 2016 - 2018: Research Assistant; Institute of Biomedical Chemistry, [Laboratory of Structure-Function Based Drug Design](http://www.way2drug.com/)
   * Supervisor: [Sc.D. Vladimir Poroikov](https://scholar.google.ru/citations?user=F13hIJMAAAAJ&hl=en)
   
 Skills
