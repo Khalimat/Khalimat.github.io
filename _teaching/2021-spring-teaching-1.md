@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Moscow Institute of Physics & Technology"
-date: 2021-01-01
+date: Spring semester, 2021
 location: "Moscow, Russia"
 ---
 

@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **2012 - 2018: MD degree (combined B.S. and M.S.) in Biochemistry**
+  - Faculty of Biomedicine, Pirogov Russian National Research Medical University, 4.7/5)
 
+**Courses (chronologically ordered)**:
+- Biology, Anatomy, Histology, Mathematical Analysis, Inorganic chemistry, Organic chemistry,
+Physical chemistry 
+- Physiology, Optics, Atomic Physics, Statistics, Probability Theory, Microbiology and Virology,
+Genetics
+-  Molecular Physiology, Biochemistry, Biophysics, Radiobiology, Molecular Biology, Pharmacology,
+Immunology 
+- Medical Biochemistry, Genome: structure and functions, Human Genome and Heritable Disease,
+Pathology, Pathophysiology 
+- Molecular Pharmacology, Immunogenetics, Biotechnology, Molecular Endocrinology, Bioinformatics,
+Computer-aided drug design
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Present: Bioinformatics Scientist; [BostonGene](https://bostongene.com/publications/)
+* 2019 - 2021: Research Assistant -> Research Fellow; Moscow Institute of Physics and Technology, Moscow
+  * Supervisor: [Dr. Yulia Medvedeva](http://scholar.google.ru/citations?user=iHU4ygoAAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2018, Research Assistant; Institute of Biomedical Chemistry, [Laboratory of Structure-Function Based Drug Design](http://www.way2drug.com/), Moscow
+  * Supervisor: [Sc.D. Vladimir Poroikov](https://scholar.google.ru/citations?user=F13hIJMAAAAJ&hl=en)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  **Python** (Pandas, NumPy, SciPy, Keras, Scikit-learn, PyTorch, Optuna, TensorFlow,
+Hyperopt, Seaborn, Matplotlib, Plotly, GEOparse, RDKit, NetworkX, graph-tool)
+* **R** (edger, DESeq2, RnBeads, EpiDISH, Seurat, WGCNA, ggplot2)
+* **Julia** (basics)
+* **C++**  (basics)
+* **Cython** (basics)
+* **Linux** (Ubuntu/Arch)
+* **Git**
+* **SQL**
+* **TeX/LaTeX**
+* **Docker**
 
 Publications
 ======
@@ -54,6 +67,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Supervised two bachelor’s thesis projects at Moscow Institute of Physics and Technology

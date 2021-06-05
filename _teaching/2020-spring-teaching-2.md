@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Moscow Institute of Physics & Technology,"
-date: 2015-01-01
+date: June 2020 - September 2020
 location: "Moscow, Russia"
 ---
 
