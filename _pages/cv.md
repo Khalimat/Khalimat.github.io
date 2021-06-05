@@ -13,6 +13,7 @@ Education
 ======
 * **2012 - 2018: MD degree (combined B.S. and M.S.) in Biochemistry**
   - Faculty of Biomedicine, Pirogov Russian National Research Medical University, (4.7/5)
+  - Master Thesis: "Discovery of new anticancer (triple-negative breast cancer) compounds by computer-aided drug design"
 
 **Courses (chronologically ordered)**:
 - Biology, Anatomy, Histology, Mathematical Analysis, Inorganic chemistry, Organic chemistry,
