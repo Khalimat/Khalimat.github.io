@@ -3,7 +3,7 @@ title: "Bioinformatics Bootcamp"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-spring-teaching-1
-venue: "Moscow Institute of Physics & Technology,"
+venue: "Moscow Institute of Physics & Technology"
 date: 2020-01-01
 location: "Moscow, Russia"
 ---
