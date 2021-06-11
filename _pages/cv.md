@@ -41,14 +41,14 @@ Skills
 *  **Python** (Pandas, NumPy, SciPy, Keras, Scikit-learn, PyTorch, Optuna, TensorFlow,
 Hyperopt, Seaborn, Matplotlib, Plotly, GEOparse, RDKit, NetworkX, graph-tool)
 * **R** (edger, DESeq2, RnBeads, EpiDISH, Seurat, WGCNA, ggplot2)
-* **Julia** (basics)
-* **C++**  (basics)
-* **Cython** (basics)
 * **Linux** (Ubuntu/Arch)
 * **Git**
 * **SQL**
 * **TeX/LaTeX**
 * **Docker**
+* **Julia** (basics)
+* **C++**  (basics)
+* **Cython** (basics)
 
 Publications
 ======
