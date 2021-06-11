@@ -9,10 +9,10 @@ redirect_from:
 ---
 About me
 ======
-Hello🖖! 
+Hello! 
 
-My name's Khalimat. I am ~25 years old bionformatician from Moscow. I love probability theory, stats, and programming and I am aiming to use them to revolutionize biomedicine [for some inexplicable reasons, I majored in this, however I am a raising mathematician in my soul] and computational biology. In my leisure time, I enjoy reading, especially hard science fiction, and photography [BTW, I am a mediocre photographer]. 
+My name's Khalimat. I am ~25 years old bionformatician from Moscow. I love probability theory, statistics, and programming. Thus, my vocation is to develop new approaches for biomedical informatics that would contribute towards improving healthcare, biomedicine, and understanding of molecular mechanisms of regulation and pathogenesis. In my leisure time, I enjoy reading, especially hard science fiction, and photography. 
 
-Here I am going to post some useful staff [maybe, but can't promise :D] and share my experience of learning C++ [I have no idea why do I need it, but I have already accepted that not everything that happens is meaningful] and linear algebra.
+Here I am going to post some useful staff about molecular biology, biochemistry, computational biology, bioinformatics, and share my experience of learning C++ [as all cool bioinformaticians, I wanna write my software in C++], linear algebra, and another things I love. 
 
-Live long and prosper!
+🖖 Live long and prosper!
