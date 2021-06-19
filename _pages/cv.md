@@ -70,4 +70,6 @@ Teaching
   
 Service
 ======
-* Supervised two bachelor’s thesis projects at Moscow Institute of Physics and Technology
+* Supervised two bachelor’s thesis projects at Moscow Institute of Physics and Technology:
+    - Mariia Minaeva, [project code](https://github.com/marie-minaeva/Topo_CM/tree/develop), [bachelor thesis](https://github.com/marie-minaeva/MIPT_bachelor_thesis/tree/review) (draft version)
+    - Dinara Ziganshona, [project code](https://github.com/ziganshina-dinara/synergy_project/tree/rework), [bachelor thesis](https://github.com/ziganshina-dinara/bachelor_diplom) (draft version)
