@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * **2012 - 2018: MD degree (combined B.S. and M.S.) in Biochemistry**
@@ -73,3 +74,16 @@ Service
 * Supervised two bachelor’s thesis projects at Moscow Institute of Physics and Technology:
     - Mariia Minaeva, [project code](https://github.com/marie-minaeva/Topo_CM/tree/develop), [bachelor thesis](https://github.com/marie-minaeva/MIPT_bachelor_thesis/) (final version)
     - Dinara Ziganshina, [project code](https://github.com/ziganshina-dinara/synergy_project/tree/rework), [bachelor thesis](https://github.com/ziganshina-dinara/bachelor_diplom) (final version)
+
+Workshops & trainings
+======
+* **[Oxford Machine Learning Summer School](https://www.oxfordml.school/)**, will be 09.08.21-20.08.21, virtual (acceptance rate 6.6 %).
+* **[Machine Learning Summer School](https://smiles.skoltech.ru/mlss2019)**, + Best Research Abstract Contest Winner (top 3 out of 120 abstracts), 26.08.2019 - 06.09.2019, Skoltech, Russia
+* **[Future Biotech Winter Retreat: Genome Function, Editing, and Therapy](http://winter2019.futurebiotech.ru/)**, 26.01.2019 -
+31.01.2019, St. Petersburg, Russia (became one of 70 young researchers selected to participate in top
+biotech winter school in Russia)
+* **[Future Biotech Winter Retreat: IT in Biology and Medicine](http://winter2018.futurebiotech.ru/)**, 22.01.2018 - 27.01.2018, Sochi,
+Russia (became one of 50 young researchers selected to participate in top biotech winter school in
+Russia)
+* **[Bioinformatics Summer School](https://bioinf.me/en/education/summer/2017)**, 31.07.2017 - 05.08.2017, MIPT, Russia (became one of 50 Biology
+majors selected to participate)
