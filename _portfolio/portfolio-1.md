@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SCAMmer Pipeline"
+excerpt: "My implementation of an active learning pipeline to predict SCAMs"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have finally assembled an active learning pipeline for SCAMs prediction. Actually, it could be used for any binary classification task in cheminformatics.
+A UML-diagram that describes the pipeline is bellow: 
+![UML](images/Pipeline_UML.jpg?raw=true "Title")
+
+Code is available [here](https://github.com/Khalimat/JCIM/blob/main/Code/main.py). Please, see the requirements and env files before running the pipeline.
+
